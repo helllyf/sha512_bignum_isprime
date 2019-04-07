@@ -1,0 +1,2 @@
+# sha512_bignum_isprime
+利用ubuntu16 下利用openssl生成hash，再判断这个hash是否为大素数。
